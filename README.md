@@ -1,4 +1,7 @@
 # Sekenium-Demo-Web-Shop--Project
+#images
+![Uploading {E3011BA4-D373-4591-92A1-1D3A0E01335C}.png…]()
+
 
 ## Objective
 Automate the testing of the Demo Web Shop website using Selenium with the Cucumber framework. Incorporate assertions and reporting using TestNG, JUnit, and Extent Reports. Document the testing process with test cases, scenarios, a mind map, bug reports, summary reports, and a comprehensive test plan.
